@@ -46,3 +46,6 @@ References:[1]H. Zhu, X. Chen, W. Dai, K. Fu, Q. Ye, J. Jiao, "Orientation Robus
 6.TGRS-HRRSD-Dataset：HRRSD是中国科学院西安光学精密机械研究所光学影像分析与学习中心制作用于研究高分辨率遥感图像目标检测的数据集。
 
 链接：https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset
+
+7.HRSC2016:高分辨率遥感船舶检测数据集，图像大小从300×300到1500×900，436张rain图像，181张val图像，444张test图像（旋转框标注）
+链接：https://www.kaggle.com/guofeng/hrsc2016
